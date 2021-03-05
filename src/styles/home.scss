@@ -1,0 +1,119 @@
+@import "~bootstrap/scss/bootstrap.scss";
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.card-img-top{
+    margin-top: 10px;
+}
+h1{
+    color: rgb(39, 45, 97);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 3%;
+    margin: 2%;
+}
+.cards{
+    margin-left: 3%;
+    margin-top: 2%;
+    background-image: url("https://image.freepik.com/foto-gratis/textura-metal-negro_46370-2902.jpg");
+}
+.card-title{
+    font-size: 15px;
+    margin-left: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    text-align: center;
+}
+.card-body{
+    justify-content: space-between;
+}
+.boton{
+    justify-content: flex-start;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+} 
+#corazon{
+    font-size: 15px;
+    margin-top: 4px;
+  
+
+}
+.cajaBoton{
+    height: 30px;
+    display: flex;
+   align-items: center;
+
+}
+#dropdownMenuButton{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.carac{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 5px;
+    margin-top: 10px;
+    list-style: none;
+    font-size: 10px;
+}
+.fa-jedi-order{
+    margin-right: 5px;
+}
+.cardImg{
+    width: 500px;
+    height: 400px;
+}
+
+.caracteristicas{
+    width: 100%;
+    text-align: center;
+    margin: 50px;
+}
+ul{
+    list-style: none;
+}
+.nombres{
+    text-align: center;
+}
+.charaster{
+    color: rgb(39, 45, 97);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.linea{
+    background-color: rgb(39, 45, 97);
+    height: 5px;
+    width: 100%;
+    margin-top: 20px;
+}
+#back{
+    width: 40%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.elemen{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.trash{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(218, 182, 84);
+    width: 150px;
+    border-color: white;
+    border: solid 1px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+#bote{
+    color: white;
+    background: none;
+    border: none;
+    margin-right: 10px;
+}
